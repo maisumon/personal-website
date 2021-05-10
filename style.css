@@ -1,0 +1,131 @@
+body{
+    margin: 0px;
+    font-family: 'poppins', sans-serif;
+}
+h1{
+    font-size: 33px;
+}
+.highlight-style{
+    font-weight: 100;
+}
+
+p{
+    font-size: 13px;
+    color: dimgray;
+}
+.highlight{
+    color: deeppink;
+}
+.half-width{
+   width: 40%;
+   float: left;
+   margin-left: 5%;
+
+}
+.half-width img{
+    width: 100%;
+
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    border-radius: 5px;
+    padding: 7px 10px;
+    font-weight: 700;
+    font-size: 12px;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    height: 470px;
+    width: 80%;
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 10%;
+}
+#smith-middle{
+    margin-top: 55px;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    width: 80%;
+    height: 470px;
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 10%;    
+}
+#biography-middle{
+    margin-top: 60px;
+}
+.half-width-second{
+    width: 23%;
+    float: left;
+    display: inline-block;
+    margin-left: 85px;
+    
+}
+.half-width-second img{
+    width: 120%;
+    
+}
+#latest{
+    text-align: center;
+    font-weight: 100;
+}
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+    width: 90%;
+    height: 520px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 5%;  
+}
+.contact-area{
+    background-image: url("images/footer-bg.png");
+    width: 80%;
+    height: 490px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 7%;  
+}
+#bottom{
+    text-align: center;
+    font-weight: 100;
+}
+#founder{
+    text-align: center;
+}
+#ceo{
+    text-align: center;
+}
+#bottom-p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+.contact-box{
+    background-color: deeppink;
+    color: white;
+    text-align: center;
+    border-radius: 4%;
+    height: 120px;
+    width: 500px;  
+    margin-left: 27%; 
+    
+}
+#inbox-p{
+    color: white;
+}
+footer{
+    text-align: center;
+    margin-right: 100px;
+}
